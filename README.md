@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 I'm Seolhee Choi, a junior Full-Stack developer <br>
-who keeps trying to learn new things to improve myself 💪
+who keeps trying to develop myself by learning something new 💪
 <br>
 <br>
 <br>
